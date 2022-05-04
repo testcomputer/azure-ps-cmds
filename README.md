@@ -25,7 +25,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge] (https://www.linkedin.com/in/daniel-j-w-torres/)
+- :mailbox:How to reach me:  (https://www.linkedin.com/in/daniel-j-w-torres/)
 
 
 
