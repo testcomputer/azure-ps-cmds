@@ -19,8 +19,6 @@
 </h1>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer)](https://github.com/testcomputer/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&layout=compact)](https://github.com/testcomputer/github-readme-stats)
 
 
