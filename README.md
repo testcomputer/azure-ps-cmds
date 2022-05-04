@@ -19,7 +19,6 @@
 </h1>
 
 
-api/top-langs?username=testcomputer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer)](https://github.com/testcomputer/github-readme-stats)
 
 
