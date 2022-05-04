@@ -21,6 +21,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer)](https://github.com/testcomputer/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&layout=compact)](https://github.com/testcomputer/github-readme-stats)
+
+
 
 - :telescope: I’m working as a Technical Support Engineer and contributing to frontend and backend for building web applications & security.
 
