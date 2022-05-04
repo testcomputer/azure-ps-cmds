@@ -1,0 +1,13 @@
+ifconfig -a
+ping
+telnet
+netstat
+nmap
+ls
+dir
+cd
+cd ..
+mkdir
+cat
+git
+go
