@@ -19,8 +19,8 @@
 </h1>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
-
+api/top-langs?username=testcomputer
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer)](https://github.com/testcomputer/github-readme-stats)
 
 
 - :telescope: I’m working as a Technical Support Engineer and contributing to frontend and backend for building web applications & security.
