@@ -21,12 +21,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&layout=compact)](https://github.com/testcomputer/github-readme-stats)
 
+- :telescope: I’m working as a Technical Support and contributing to frontend for web applications & network security.
 
-- :telescope: I’m working as a Technical Support Engineer and contributing to frontend and backend for building web applications & security.
+- :seedling: Exploring Technical Content Writing. And practicing blogs entries.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems & read tech/engin articles.
 
 - :mailbox:How to reach me:  (https://www.linkedin.com/in/daniel-j-w-torres/)
 
