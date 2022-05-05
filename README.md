@@ -25,7 +25,7 @@
 
 - :seedling: Exploring Technical Content Writing. And practicing blogs entries.
 
-- :zap: In my free time, I solve problems & read tech/engin articles.
+- :zap: In my free time, I solve problems & read technology/automotive articles. Big fan of EV revolution!
 
 - :mailbox:How to reach me:  (https://www.linkedin.com/in/daniel-j-w-torres/)
 
