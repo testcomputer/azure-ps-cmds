@@ -11,3 +11,11 @@ mkdir
 cat
 git
 go
+arp -a
+rm (remove)
+pwd
+file
+clear
+cls
+history
+mv
