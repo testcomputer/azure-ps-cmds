@@ -1,0 +1,10 @@
+nmap -sS -sV -v -O -A {Target IP} && netstat
+Combine Megasploit with Nmap & other network/vulnerability/version scans.
+Create a list of 10+ scripts prepared & polished. Against various networks. 
+Build a digital enviroment for a successful red team deployment, 
+    >Scenario #1: Penetration Test: Web Application. vulnerability & debug; 24 hour test. 5 devices 5-10 OS systems deployed*
+    >Scenario #2: Network Vulnerability Tests; 8 hour test. 1 device. 4 OS systems deployed*
+    >Scenario #3: Speed/Quality Test; 2.5 hours. (Office Hours only) to locate list of vuln & bugs in network. No restrictions. 1 device. 1 OS deployed
+    >Scenario #4: NST Attack AKA Network Stress Test; 5 hours. Detailed report of network performance/utility & recommendations to increase productivity throughout the 
+    >network infrastructure. Collaboration with the network engineering team to discuss possible "Purple Team" activities. 
+    >Scenario #5: 
