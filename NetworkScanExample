@@ -16,12 +16,31 @@ traceroute to google.com (142.250.72.14), 64 hops max, 52 packets
   
   clear/cls
 
-For a SLOW comprehensive network scan
 
-sudo nmap -sS -sU -T4 -A -v -PE -PP -PS80,443 -PA3389 -PU40125 -PY -g 53 --script "default or (discovery and safe)"
 
-Intense Scan (No ping)
-sudo nmap -T4 -A -v -Pn --traceroute
+
+                                 #### NETWORK SCANS ########
+                                 
+                                      
+                                      
+1.) For a SLOW comprehensive network scan
+
+       sudo nmap -sS -sU -T4 -A -v -PE -PP -PS80,443 -PA3389 -PU40125 -PY -g 53 --script "default or (discovery and safe)"
+
+2.) Intense Scan (No ping)
+       sudo nmap -T4 -A -v -Pn --traceroute
+
+
+
+
+
+
+
+
+
+
+---Learn .php SQL injection ----
+
 
 
 
