@@ -15,3 +15,14 @@ traceroute to google.com (142.250.72.14), 64 hops max, 52 packets
   7.) (192.168.1.0) 12.789 ms
   
   clear/cls
+
+For a SLOW comprehensive network scan
+
+sudo nmap -sS -sU -T4 -A -v -PE -PP -PS80,443 -PA3389 -PU40125 -PY -g 53 --script "default or (discovery and safe)"
+
+Intense Scan (No ping)
+sudo nmap -T4 -A -v -Pn --traceroute
+
+
+
+
