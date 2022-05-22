@@ -16,11 +16,20 @@ traceroute to google.com (142.250.72.14), 64 hops max, 52 packets
   
   clear/cls
 
-
+https://www.redhat.com/sysadmin/nmap-troubleshooting
 
 
                                  #### NETWORK SCANS ########
                                  
+                               
+                               
+                               
+nmap [ <Scan Type> ...] [ <Options> ] { <target specification> }   
+
+https://www.redhat.com/sysadmin/use-cases-nmap
+https://www.redhat.com/sysadmin/nmap-troubleshooting
+https://www.redhat.com/sysadmin/beginners-guide-network-troubleshooting-linux
+
                                       
                                       
 1.) For a SLOW comprehensive network scan
@@ -29,11 +38,19 @@ traceroute to google.com (142.250.72.14), 64 hops max, 52 packets
 
 2.) Intense Scan (No ping)
        sudo nmap -T4 -A -v -Pn --traceroute
+3.) Scan for firewall enabled
+       sudo nmap -sA 
+       The word 'filter' suggests that this host has an eabled firewall
+       
+4.)
+
+ip link show
 
 
+5.) ethtool eth0
 
-
-
+nslookup
+ss -tupn4
 
 
 
