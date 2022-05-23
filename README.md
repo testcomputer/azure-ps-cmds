@@ -20,7 +20,7 @@
 
 - :telescope: I’m working as a Technical Support Network Specialist. Trying to contribute to frontend web development/applications & cyber security.
 
-- :seedling: Exploring Technical Content Writing and Cloud Network VPNs. And practicing blogs entries. *Stay tuned!* - :lighting:
+- :seedling: Exploring Technical Content Writing and Cloud Network VPNs. And practicing blogs entries. *Stay tuned!* - 🛰️:
 
 - :zap: In my free time, I solve problems & read technology/automotive articles. Big fan of the EV revolution!
 
