@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- :telescope: I’m working as a Technical Support Network Specialist. Trying to contribute to frontend web development/applications cyber security.
+- :telescope: I’m working as a Technical Support Network Specialist. Trying to contribute to frontend web development/applications & cyber security.
 
 - :seedling: Exploring Technical Content Writing and Cloud Network VPNs. And practicing blogs entries. *Stay tuned!*
 
