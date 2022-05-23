@@ -18,9 +18,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&layout=compact)](https://github.com/testcomputer/github-readme-stats)
-
 - :telescope: I’m working as a Technical Support and contributing to frontend for web applications & network security.
 
 - :seedling: Exploring Technical Content Writing. And practicing blogs entries.
