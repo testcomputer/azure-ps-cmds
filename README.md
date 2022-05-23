@@ -3,8 +3,10 @@
 </div>
 <div id="badges">
   
-  
+ 
+  ![image](https://user-images.githubusercontent.com/104815254/169782081-897b5d69-992f-4db3-9ca0-c3085f2b4560.png)
 
+  
   
   
   <a href="https://www.linkedin.com/in/daniel-j-w-torres/">
