@@ -31,19 +31,3 @@
 <img src="https://camo.githubusercontent.com/3f990cfefb64f13d28397fe586c3aa38a81fde585de479205d63c79363ebe07a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" alt="JohnEmerson1406#0587" data-canonical-src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;">
 
 <img align="center" src="https://camo.githubusercontent.com/d13643f87a628203f5f3f8eaf8352acf18ea045e8f4d255b8b39345478396d36/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a307368626c30636b266c61796f75743d636f6d70616374267468656d653d6769746875625f6461726b26686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" style="max-width: 100%;">
-
-
-
-
-# files
-files. connections. protocols. reports. location. proxy. preventive. security.
-
-
-
-ipconfig /all 
-
-Scan Default Gateway/Router/Access Point 
-
-[Once you've located the Default Gateway, ping request 4x,. If transmission was successful.Continue] 
-
-arp -a
