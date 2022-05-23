@@ -18,11 +18,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- :telescope: I’m working as a Technical Support and contributing to frontend for web applications & network security.
+- :telescope: I’m working as a Technical Support Network Specialist. Trying to contribute to frontend web development/applications cyber security.
 
-- :seedling: Exploring Technical Content Writing. And practicing blogs entries.
+- :seedling: Exploring Technical Content Writing and Cloud Network VPNs. And practicing blogs entries. *Stay tuned!*
 
-- :zap: In my free time, I solve problems & read technology/automotive articles. Big fan of EV revolution!
+- :zap: In my free time, I solve problems & read technology/automotive articles. Big fan of the EV revolution!
 
 - :mailbox:How to reach me:  (https://www.linkedin.com/in/daniel-j-w-torres/)
 
