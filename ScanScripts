@@ -1,3 +1,5 @@
+            ###  Scan scirpts Note 1  ###
+            
 nmap -sS -sV -v -O -A {Target IP} && netstat
 Combine Megasploit with Nmap & other network/vulnerability/version scans.
 Create a list of 10+ scripts prepared & polished. Against various networks. 
@@ -8,3 +10,10 @@ Build a digital enviroment for a successful red team deployment,
     >Scenario #4: NST Attack AKA Network Stress Test; 5 hours. Detailed report of network performance/utility & recommendations to increase productivity throughout the 
     >network infrastructure. Collaboration with the network engineering team to discuss possible "Purple Team" activities. 
     >Scenario #5: 
+
+
+
+
+
+              ###  Scan scirpts Note 2 ###
+              
