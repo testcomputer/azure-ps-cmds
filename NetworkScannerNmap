@@ -51,6 +51,18 @@ Reading Our Final flag root.txt
   
   
   
+# files
+files. connections. protocols. reports. location. proxy. preventive. security.
+
+
+
+ipconfig /all 
+
+Scan Default Gateway/Router/Access Point 
+
+[Once you've located the Default Gateway, ping request 4x,. If transmission was successful.Continue] 
+
+arp -a
   
   
   
