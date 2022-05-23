@@ -3,9 +3,7 @@
 </div>
 <div id="badges">
   
- 
- <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="http://3.bp.blogspot.com/-4qWTwclCzmg/VPcEgcA10nI/AAAAAAAAECQ/xz81Moc1z4I/s1600/14.gif">
-  
+
   
   <a href="https://www.linkedin.com/in/daniel-j-w-torres/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -41,3 +39,9 @@
  
 
 <img align="center" src="https://camo.githubusercontent.com/d13643f87a628203f5f3f8eaf8352acf18ea045e8f4d255b8b39345478396d36/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a307368626c30636b266c61796f75743d636f6d70616374267468656d653d6769746875625f6461726b26686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" style="max-width: 100%;">
+
+
+
+
+ <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="http://3.bp.blogspot.com/-4qWTwclCzmg/VPcEgcA10nI/AAAAAAAAECQ/xz81Moc1z4I/s1600/14.gif">
+  
