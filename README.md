@@ -4,9 +4,7 @@
 <div id="badges">
   
  
-  ![image](https://user-images.githubusercontent.com/104815254/169782081-897b5d69-992f-4db3-9ca0-c3085f2b4560.png)
-
-  
+ <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="http://3.bp.blogspot.com/-4qWTwclCzmg/VPcEgcA10nI/AAAAAAAAECQ/xz81Moc1z4I/s1600/14.gif">
   
   
   <a href="https://www.linkedin.com/in/daniel-j-w-torres/">
