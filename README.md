@@ -3,7 +3,7 @@
 </div>
 <div id="badges">
   
-
+<h1>&#128526;<h1>
   
   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=testcomputer&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&langs_count=5&theme=tokyonight)]()
