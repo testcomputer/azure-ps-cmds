@@ -35,11 +35,11 @@
 
 - :telescope: I’m working as a Technical Support Network Specialist. Trying to contribute to frontend web development/applications & cyber security.
 
-- :seedling: Exploring Technical Content Writing and Cloud Network VPNs. And practicing blogs entries. *Stay tuned!* - 🛰️:
+- :seedling: Exploring Technical Content Writing and virtual network design. Developing a few blogs entries. *Stay tuned!* - 🛰️:
 
 - :zap: In my free time, I solve problems & read technology/automotive articles. Big fan of the EV revolution!
 
-- :mailbox:How to reach me:  (https://www.linkedin.com/in/daniel-j-w-torres/)
+- :mailbox:How to reach me:  (https://www.linkedin.com/in/daniel-j-w-torres/) (http://github.com/testcomputer)
 
  
  
