@@ -5,8 +5,11 @@
   
 <h1>&#128526;<h1>
   
-  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=testcomputer&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&langs_count=5&theme=tokyonight)]()
+  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=testcomputer&count_private=true&theme=tokyonight&showicons=true)]() 
+  
+  
+  
+   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&langs_count=5&theme=tokyonight)]()
   
  
   
@@ -41,14 +44,8 @@
 
 - :mailbox:How to reach me:  (https://www.linkedin.com/in/daniel-j-w-torres/) (http://github.com/testcomputer)
 
- 
- 
- <p align="center">
-<a href="https://www.azure.com" target="_blank"> <img src="https://raw.githubusercontent.com/pry0cc/axiom/master/screenshots/Referrals/azure_referral.png" screenshots/Referrals/azure_referral.png/></a></p>
-
- 
- 
- 
+  </div>
+  
 
 <img align="center" src="https://camo.githubusercontent.com/d13643f87a628203f5f3f8eaf8352acf18ea045e8f4d255b8b39345478396d36/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a307368626c30636b266c61796f75743d636f6d70616374267468656d653d6769746875625f6461726b26686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" style="max-width: 100%;">
 
@@ -58,3 +55,14 @@
 
  <img src="https://media1.giphy.com/media/gU25raLP4pUu4/giphy.gif?cid=790b761…&rid=giphy.gif&ct=g" alt="Coding Blue Screen GIF" style="width: 500px; height: 375px; left: 0px; top: 0px; opacity: 0;">
 
+
+  
+   <p align="center">
+<a href="https://www.azure.com" target="_blank"> <img src="https://raw.githubusercontent.com/pry0cc/axiom/master/screenshots/Referrals/azure_referral.png" screenshots/Referrals/azure_referral.png/></a></p>
+
+  
+  
+  
+  
+  
+  
