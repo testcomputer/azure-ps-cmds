@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>HTML/CSS Cheat sheet</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <meta name="author" content="Bryan Vinton">
+  <meta name="description" content="HTML and CSS Cheat Sheet">
+</head>
+
+<body>
+  <header>
+    <h1>HTML/CSS Cheat Sheet</h1>
+    <!--Not necessary now-->
+    <!--<nav>
+      <ul>
+      </ul>
+    </nav>-->
+  </header>
+  <main>
+
+    <section class="html_tags">
+      <h2>Common HTML Tags</h2>
+      <table class="html_table">
+        <thead>
+          <tr>
+            <th scope="col">Tag</th>
+            <th scope="col">Summary</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>html</td>
+            <td>This is the tag that encapsulates the entire HTML document</td>
+          </tr>
+          <tr>
+            <td>head</td>
+            <td>This is the tag that contains the metadata for the webpage</td>
+          </tr>
+          <tr>
+            <td>body</td>
+            <td>This is the tag that contains the contents of a webpage</td>
+          </tr>
+          <tr>
+            <td>p</td>
+            <td>This is the tag that contains text content within the body of a webpage</td>
+          </tr>
+          <tr>
+            <td>h1-h6</td>
+            <td>These tags are heading tags that range from largest (h1) to smallest (h6)</td>
+          </tr>
+          <tr>
+            <td>ol</td>
+            <td>This tag is the wrapper for an ordered list</td>
+          </tr>
+          <tr>
+            <td>ul</td>
+            <td>This tag is the wrapper for an unordered list</td>
+          </tr>
+          <tr>
+            <td>li</td>
+            <td>This tag goes inside a list wrapper, and contains the data for a list</td>  
+          </tr>
+          <tr>
+            <td>img</td>
+            <td>This tag is used to link an image into the body of a webpage</td>
+          </tr>
+          <tr>
+            <td>video</td>
+            <td>This tag is used to link video content into the body a webpage</td>
+          </tr>
+          <tr>
+            <td>header</td>
+            <td>Used in HTML5, this tag is similar to div and is important for accessability features to know where the head of the content is</td>
+          </tr>
+          <tr>
+            <td>section</td>
+            <td>Used in HTML5, this tag is similar to div, and is important for accessability features to determine when entering a new section of content</td>
+          </tr>
+          <tr>
+            <td>article</td>
+            <td>Used in HTML5, this tag is similar to div, and is used for content that makes sense on its own.</td>
+          </tr>
+          <tr>
+            <td>aside</td>
+            <td>Used in HTML5, this tag is similar to div, and is used for supporting content</td>
+          </tr>
+          <tr>
+            <td>figure</td>
+            <td>This tag is a wrapper for images in a webpage, within 'figcaption' is used to title a figure.</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+    <section>
+      <h2>Common CSS Properties</h2>
+      <table class="css_table">
+        <thead>
+          <tr>
+            <th>Property</th>
+            <th>Summary</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>background-color:</td>
+            <td>Used to set the background color of an element</td>
+          </tr>
+          <tr>
+            <td>background-image:</td>
+            <td>Used to set the background image of an element</td>
+          </tr>
+          <tr>
+            <td>color:</td>
+            <td>Used to set the foreground color of an element, typically this means the text</td>
+          </tr>
+          <tr>
+            <td>font-family:</td>
+            <td>Used to set the type of font for an element</td>
+          </tr>
+          <tr>
+            <td>font-size:</td>
+            <td>Used to set the font size in an element</td>
+          </tr>
+          <tr>
+            <td>text-align:</td>
+            <td>Used to set the alignment of text in an element</td>
+          </tr>
+          <tr>
+            <td>margin:</td>
+            <td>Used to set the margin for an element, multiple ways to use this.</td>
+          </tr>
+          <tr>
+            <td>padding:</td>
+            <td>Used to set the padding for an element</td>
+          </tr>
+          <tr>
+            <td>height:</td>
+            <td>Used to set the height of an element</td>
+          </tr>
+          <tr>
+            <td>width:</td>
+            <td>Used to set the width of an element</td>
+          </tr>
+          <tr>
+            <td>display:</td>
+            <td>Used to set the the display properties of an element</td>
+          </tr>
+        </tbody>
+      </table>
+      
+    </section>
+      
+    <section class="learning_html">
+      <h2>Learning HTML/CSS</h2>
+      <article>
+        <p>Learning HTML and CSS seems to be a practice in repetition. when I first started it felt clunky and annoying to write, but with practice, and a good text editor that allows me to tab-complete tags, I've become pretty fast. I work mainly with Python, but I'm hoping to learn how to build full-stacks using multiple languages, and tools. I'm excited to keep going.</p>
+        <p>If you're here reading this, I appreciate you stopping by. If you're experienced you'll notice I've left quite a bit of powerful properties and tags out, this is purely because of my restrictive schedule, the goal of this page is to provide some content, but mainly to establish a baseline that can be built upon later, when I'm more experienced in other aspects of webapp development.</p>
+        </article>
+    </section>
+  </main>
+  <footer>Written by Bryan Vinton</footer>
+</body>
+
+</html>
