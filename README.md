@@ -1,8 +1,4 @@
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=testcomputer)](https://github.com/testcomputer/github-profile-trophy)
-
-![Metrics](./github-metrics.svg)
-
 
 
 <h3>
@@ -90,6 +86,9 @@ width="400" />
 
 
 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=testcomputer)]
 
 
 
