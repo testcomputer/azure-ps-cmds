@@ -1,8 +1,37 @@
 
+[![Github](https://img.shields.io/github/followers/testcomputer?label=Follow&style=social)](https://github.com/testcomputer)
+
+
+
+![68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6c696e75782f6c696e75782d617232312e737667](https://user-images.githubusercontent.com/104815254/170821794-d974c524-2481-4cb9-94b9-63042f2cb36b.svg)
+![68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f707974686f6e2f707974686f6e2d617232312e737667](https://user-images.githubusercontent.com/104815254/170821802-3300c72e-8e30-460e-838a-be5912c7f115.svg)
+![68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646f636b65722f646f636b65722d617232312e737667](https://user-images.githubusercontent.com/104815254/170821812-25bcb1be-43cf-453a-83af-fb1945f7d92e.svg)
+![68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7465727261666f726d696f2f7465727261666f726d696f2d617232312e737667](https://user-images.githubusercontent.com/104815254/170821818-aa852f1d-5492-4fb7-91ea-f9314e8e2655.svg)
+![68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f72656163746a732f72656163746a732d617232312e737667](https://user-images.githubusercontent.com/104815254/170821819-6fef720e-3f9a-4348-b587-c8c4a6809cb2.svg)
+![68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d617232312e737667](https://user-images.githubusercontent.com/104815254/170821823-2b2ac646-3ceb-4ee0-a5bf-dac31c96910a.svg)
+
+![68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7261676861762d62797465](https://user-images.githubusercontent.com/104815254/170821874-11b929d9-6a44-42a4-bff4-7d490c5681fc.svg)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="testcomputer" /> </p>
+
+
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+
+![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f64652f62342f36662f64656234366630326135396533623361326161353866616331363239306436332e676966](https://user-images.githubusercontent.com/104815254/170821638-ba6b0eb2-6a70-4ddc-995e-83d3041c831f.gif)
+
+
+![bio](https://user-images.githubusercontent.com/104815254/170821683-0363897e-2ddd-4c03-8479-d360a5519db6.gif)
+
+
+
+
 | Application        | Description                                  | Plugin                     |
 | ------------------ | -------------------------------------------- | -------------------------- |
 | [clink]            | Improved cmd.exe for Windows                 | [clink-zoxide]             |
-| [emacs]            | Text editor                                  | [zoxide.el]                |
+| [emacs]            | Text editor                                  | [zoxide.el]                |![68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6c696e75782f6c696e75782d617232312e737667](https://user-images.githubusercontent.com/104815254/170821786-054a08d8-10f8-411a-be36-cc36511f466a.svg)
+
 | [felix]            | File manager                                 | Natively supported         |
 | [joshuto]          | File manager                                 | Natively supported         |
 | [lf]               | File manager                                 | See the [wiki][lf-wiki]    |
