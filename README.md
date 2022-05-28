@@ -1,5 +1,5 @@
 
-[![Github](https://img.shields.io/github/followers/testcomputer?label=Follow&style=social)](https://github.com/testcomputer)
+[![Github](https://img.shields.io/github/followers/testcomputer?label=Follow&style=social&hide=followers)](https://github.com/testcomputer)
 
 
 
