@@ -1,8 +1,9 @@
-# Project's Name
+<h1 align="center">   Project's Name
+  </h1>
 <!-- > Outline a brief description of your project.
 > Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
-
-## Table of Contents
+  
+  Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
