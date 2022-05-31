@@ -1,8 +1,27 @@
-How Long Does it Take to Become a Certified Ethical Hacker?
+# What are "ethical hackers"?
+<!-- > Outline a brief description of your project.
+> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Setup](#setup)
+* [Usage](#usage)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
+<!-- * [License](#license) -->
+
+## How Long Does it Take to Become a Certified Ethical Hacker?
+
 Network security is at the pivotal point for any organization or business entity.
 It involves protection of access, mismanagement, and hacking of a company’s’ crucial
 files of a computer network system. Many organizations have employed a tool to check 
 and test for their network security and one of them is ethical hacking.
+
 
 This is an emerging tool that can be used to detect security vulnerability and risks
 in an organization’s network. Businesses have decided to adopt ethical hacking tools 
@@ -10,8 +29,16 @@ to secure essential documents, sensitive information and to keep their network s
 from malicious hackers. Most organizations often hire ethical hackers to perform security
 measures on their behalf.
 
-The significance of ethical hacking
-The importance of ethical hacking in organizations includes:
+
+## General Information
+- Provide general information about your project here.
+- What problem does it (intend to) solve?
+- What is the purpose of your project?
+- Why did you undertake it?
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+## The significance of ethical hacking
+### The importance of ethical hacking in organizations includes:
 
 Objective analysis of information security status of an organization. This is done through 
 test entry points, scanning for weakness and priorities targets
@@ -28,7 +55,26 @@ Due to the increased cases of network insecurities, businesses and organizations
 come up with ways to keep their networks safer. This has coerced organizations to employ ethical
 hackers who will help in keeping their network security in check.
 
-The job market is up-and-coming for ethical hackers because the information technology industry 
+
+## Technologies Used
+- Tech 1 - version 1.0
+- Tech 2 - version 2.0
+- Tech 3 - version 3.0
+
+
+## Features
+List the ready features here:
+- Awesome feature 1
+- Awesome feature 2
+- Awesome feature 3
+
+
+## Screenshots
+![Example screenshot](./img/screenshot.png)
+<!-- If you have screenshots you'd like to share, include them here. -->
+
+
+#### The job market is up-and-coming for ethical hackers because the information technology industry 
 is rapidly growing regardless of the economic problems. Before you become an ethical hacker, you 
 should consider the following;
 
@@ -66,50 +112,6 @@ How long it takes to learn ethical hacking
 Would you like to train your employees about ethical hacking? 
 
 
-
-
-# Project Name
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
-
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Usage](#usage)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
-<!-- * [License](#license) -->
-
-
-## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
-
-
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
 
 
 ## Setup
