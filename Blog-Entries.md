@@ -155,3 +155,37 @@ Give credit here.
 <!-- This project is open source and available under the [... License](). -->
 
 <!-- You don't have to include all sections - just the one's relevant to your project -->
+
+
+
+
+DNS
+The Domain Name System (DNS) is a hierarchical distributed naming system for computers, services, or any resource connected to the Internet or a private network. It associates various information with domain names assigned to each of the participating entities. Most prominently, it translates domain names meaningful for users to the numerical IP addresses needed for the purpose of locating computer services and devices worldwide. By providing a worldwide, distributed keyword-based redirection service, the Domain Name System is an essential component of the functionality of the Internet.
+Open up the command prompt (In Windows, you can use WINDOWS KEY+R to open Run dialogue box and type cmd)
+(note: Use your up and down arrow keys to access recent commands you have entered in the command line.)
+To see your current DNS settings, type ipconfig /displaydns and press Enter.
+To delete the entries, type ipconfig /flushdns and press Enter.
+To see your DNS settings again, type ipconfig /displaydns and press Enter.
+You should see blank records or you might get the message "Could not display the DNS Resolver Cache."
+To perform a DNS lookup, type ping scisweb.ulster.ac.uk and press Enter.
+To see your DNS settings again, type ipconfig /displaydns and press Enter.
+You should see a DNS record for scisweb.ulster.ac.uk that includes the IP address and other information. Another field in the DNS cache is a TTL value, which is different from the TTL in an IP packet. This DNS TTL value is sent by the DNS server maintaining the scisweb.ulster.ac.uk record. It is measured in seconds and tells your DNS client how long to cache the DNS record as a safeguard against clients holding on to DNS records whose IP addresses might have changed.
+To open your computer’s Hosts file, run Notepad as administrator. Easiest way is to press and then type notepad in windows 8 splashscreen, select notepad and right click and then select "Run as administrator" in bottom taskbar area of windows 8. In the Open dialog box, navigate to C:\Windows\System32\Drivers\Etc. In the File type drop-down list, click All Files. Double-click the hosts file to open it.
+You should now have a hosts file open with various settings.
+After the last line in the file, type 193.61.191.104 university, and then save the file and exit Notepad.
+At the command prompt, type ipconfig /displaydns and press Enter to see that the entry is in your DNS cache.
+Type ping university and press Enter.
+Delete the DNS cache again by typing ipconfig /flushdns and press Enter.
+Display your DNS cache by typing ipconfig /displaydns and press Enter.
+Notice that the university entry remains in the cache because the Hosts file data always stays in the cache.
+Type nslookup scisweb.ulster.ac.uk and press Enter.
+Your DNS server’s name and IP address are displayed, along with the name and IP address of www.ulster.ac.uk. You use Nslookup to look up a host’s IP address without actually communicating with it.
+Type nslookup and press Enter.
+You should now have entered Nslookup’s interactive mode. You should see an arrow prompt.
+Type www.google.com and press Enter.
+Notice that more than one address is returned along with one or more aliases (other names that www.google.com goes by).
+Type www.google.com again (or press the up arrow to repeat the last line you typed) and press Enter.
+You should see the IP addresses returned in a different order. (If you don’t, keep trying, and the order will change.)
+The www.google.com page can be reached by a number of different IP addresses, and the addresses are returned in a different order so that a different server is used each time, which is called load balancing.
+Nslookup is also used to do reverse lookups, in which the IP address is given and the hostname is returned.
+If you are ever concerned that your DNS server is not working correctly, you can test it with Nslookup and compare the results of your DNS server with the results from another server, such as Google's.
