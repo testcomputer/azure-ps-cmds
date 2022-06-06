@@ -1,7 +1,7 @@
 <div>
-  <h1> align=("center") Welcome everyone to 1Up Garage How-To Online Tutorial </h1>
+  <strong> align=("center") Welcome everyone to 1Up Garage How-To Online Tutorial </h1>
 </div>
-
+</strong>
 <p> Introduction </p>
 <h1> ## Creating a checklist
 What needs to be done Vs What materials, parts, additional research is required. 
