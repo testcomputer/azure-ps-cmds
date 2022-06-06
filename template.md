@@ -10,9 +10,6 @@
   So we'll start with creating a to-do list.
   <div>
   <ul>
-    <li>freeCodeCamp</li>
-    <li>CSS-Tricks</li>
-    <li>Traversy Media</li>
     <li>What is the job consisting of.
     <li>Can everything be done 'in house' (We'll go over what that means later
     <li>What parts do we need to get
@@ -20,7 +17,7 @@
     <li>What/When is your time frame
     <li>Is preparation needed. Clean up, removal, modification, etc
     <li>Is this project being recorded, or collaborated on. Preparing your work space
-    -
+    </li>
  </h1>
   </ul>
 </div>
@@ -31,3 +28,4 @@
     </div>
   </h1>
  </p>
+ 
