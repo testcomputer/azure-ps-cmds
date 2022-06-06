@@ -1,5 +1,5 @@
 <div>
-  <strong> align=("center") Welcome everyone to 1Up Garage How-To Online Tutorial </h1>
+  <strong> align=("center") Welcome everyone to 1Up Garage <em>How-To Online</em> Tutorial </h1>
 </div>
 </strong>
 <p> Introduction </p>
