@@ -34,11 +34,11 @@
 <div>
   <ul>
     <li>
-      <a href="https://www.example.org/" target="_blank">freeCodeCamp</a>
+      <a href="https://www.example.org/" target="_blank">CodeName</a>
     <li>
-      <a href="https://1UpGarage/" target="_blank">CSS-Tricks</a>
+      <a href="https://1UpGarage/" target="_blank">CodingTricks</a>
     <li>
-      <a href="https://www.Website.com/" target="_blank">Traversy Media</a>
+      <a href="https://www.Website.com/" target="_blank">Solo'd Media</a>
     </li>
   </ul>
 </div>
