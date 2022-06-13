@@ -1,3 +1,7 @@
+Create easy to access templates to copy paste and post. Think consistency & quality. Vlogs, blogs, posts, stories, up-to-dates, afilliate links, growth isn''t overnight
+
+
+
 <h1 align="center">   Project's Name
   </h1>
 <!-- > Outline a brief description of your project.
