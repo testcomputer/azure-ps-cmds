@@ -26,3 +26,6 @@ gobuster
 ip 
 arp
 removedir
+pathping
+nslookup
+print
