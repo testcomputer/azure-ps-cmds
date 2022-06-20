@@ -30,3 +30,8 @@ pathping
 nslookup
 print
 prompt
+ls -a
+cd "foldername"
+cat
+head
+tails
