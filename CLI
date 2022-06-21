@@ -31,3 +31,9 @@ nslookup
 print
 prompt
 whoami
+env
+grep
+export
+nano
+sort
+touch
