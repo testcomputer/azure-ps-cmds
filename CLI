@@ -33,6 +33,10 @@ prompt
 whoami
 env
 grep
+chdir
+clip
+cls
+tasklist
 export
 nano
 sort
