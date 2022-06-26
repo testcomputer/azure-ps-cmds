@@ -45,3 +45,8 @@ sort
 del
 msg
 ntbackup
+time
+assoc
+deltree
+forfiles
+if
