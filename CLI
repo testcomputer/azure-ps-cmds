@@ -50,3 +50,4 @@ assoc
 deltree
 forfiles
 if
+get-verb | more
