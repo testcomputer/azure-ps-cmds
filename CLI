@@ -51,3 +51,4 @@ deltree
 forfiles
 if
 get-verb | more
+Get-Help -Name Get-ExecutionPolicy -Detailed
