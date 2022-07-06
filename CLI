@@ -53,3 +53,5 @@ if
 get-verb | more
 Get-Help -Name Get-ExecutionPolicy -Detailed
 Get-Process
+Get-Uptime
+Unlock-ADAccount and Set-ADAccountPassword
