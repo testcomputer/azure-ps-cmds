@@ -63,3 +63,4 @@ nbtstat
 netsh
 route
 tracert
+ipxroute
