@@ -64,3 +64,5 @@ netsh
 route
 tracert
 ipxroute
+hostname
+
