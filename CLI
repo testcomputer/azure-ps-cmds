@@ -65,4 +65,4 @@ route
 tracert
 ipxroute
 hostname
-
+Set-ExecutionPolicy
