@@ -66,3 +66,5 @@ tracert
 ipxroute
 hostname
 Set-ExecutionPolicy
+msconfig
+msinfo 
