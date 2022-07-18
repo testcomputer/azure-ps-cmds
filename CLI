@@ -70,3 +70,4 @@ msconfig
 msinfo 
 Get-ADDomain
 et-ADDomainController -filter * | select hostname, operatingsystem
+Get-ADUser username -Properties *
