@@ -68,3 +68,5 @@ hostname
 Set-ExecutionPolicy
 msconfig
 msinfo 
+Get-ADDomain
+et-ADDomainController -filter * | select hostname, operatingsystem
