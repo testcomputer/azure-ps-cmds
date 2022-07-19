@@ -72,3 +72,7 @@ Get-ADDomain
 et-ADDomainController -filter * | select hostname, operatingsystem
 Get-ADUser username -Properties *
 Get-ADGroup -filter *
+Install-Module -Name AzureAD
+Set-PSRepository -Name PSGallery -InstallationPolicy Trusted
+Get-Module AzureAD –ListAvailable
+Get-Command –Module AzureAD
