@@ -77,3 +77,4 @@ Set-PSRepository -Name PSGallery -InstallationPolicy Trusted
 Get-Module AzureAD –ListAvailable
 Get-Command –Module AzureAD
 Enable-ADAccount -Identity rallen
+Search-ADAccount -LockedOut
