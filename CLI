@@ -78,3 +78,4 @@ Get-Module AzureAD –ListAvailable
 Get-Command –Module AzureAD
 Enable-ADAccount -Identity rallen
 Search-ADAccount -LockedOut
+get-adgroup -filter * | Where-Object {$_.name -like "*group-name*"}
