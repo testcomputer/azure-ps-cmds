@@ -80,3 +80,4 @@ Enable-ADAccount -Identity rallen
 Search-ADAccount -LockedOut
 get-adgroup -filter * | Where-Object {$_.name -like "*group-name*"}
 Get-AdComputer -filter *
+Get-WindowsAutoPilotInfo
