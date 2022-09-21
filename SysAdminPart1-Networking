@@ -1,0 +1,10 @@
+ipconfig /all
+ping
+traceroute
+netstat
+telnet
+route
+config
+Learn PowerShell cmds for networking.
+Build out a action plan.
+Document processes
