@@ -43,5 +43,16 @@ select netconnectionid, name, InterfaceIndex, netconnectionstatus
 gcim Win32_Processor | fl *
 
 
+(gcim Win32_ComputerSystem).HypervisorPresent
+
+
+
+
+
+
+
+
+
+
 
 
