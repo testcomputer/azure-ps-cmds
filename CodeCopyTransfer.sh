@@ -31,3 +31,4 @@ and network connection profiles come in handy). Therefore, it is irritating to
 have to type in the code every day I am on the network.
 
 
+get-wmiobject win32_networkadapter | select netconnectionid, name, InterfaceIndex, netconnectionstatus
