@@ -22,6 +22,32 @@ This command will list out the DNS Cache Entries.
 
 [] netsh> netsh interface ipv4 show interfaces
 
+[] tracert
+
+[] dig
+
+https://youtu.be/6t9C72BXQHw
+
+
+nslookup Option	Description
+-domain=[domain-name]	Change the default DNS name.
+-debug	Show debugging information.
+-port=[port-number]	Specify the port for queries. The default port number is 53.
+-timeout=[seconds]	Specify the time allowed for the server to respond.
+-type=a	View information about the DNS A address records.
+-type=any	View all available records.
+-type=hinfo	View hardware-related information about the host.
+-type=mx	View Mail Exchange server information.
+-type=ns	View Name Server records.
+-type=ptr	View Pointer records. Used in reverse DNS lookups.
+-type=soa	View Start of Authority records. 
+
+sudo apt install dnsutils
+
+
+
+[] nslookup -debug [domain-name]
+
 [] Get-WmiObject -Class Win32_UserAccount -Filter "LocalAccount='True'"
 
 What is the big deal with wireless networks?
