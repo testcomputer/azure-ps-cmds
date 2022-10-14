@@ -12,9 +12,17 @@ Get-DnsClientCache
 
 This command will list out the DNS Cache Entries.
 
+[] netsh wlan show profiles
+
 [] ipconfig /displaydns > dnscacheentries.txt
 
 [] ipconfig /flushdns
+
+[] Get-WmiObject -Class Win32_NetworkAdapterConfiguration  -filter "IPEnabled = $true"
+
+[] netsh> netsh interface ipv4 show interfaces
+
+[] Get-WmiObject -Class Win32_UserAccount -Filter "LocalAccount='True'"
 
 What is the big deal with wireless networks?
 
@@ -46,6 +54,9 @@ gcim Win32_Processor | fl *
 (gcim Win32_ComputerSystem).HypervisorPresent
 
 
+Get-NetAdapter | Get-NetAdapterBinding | ? enabled -eq $true
+
+git --version
 
 
 
