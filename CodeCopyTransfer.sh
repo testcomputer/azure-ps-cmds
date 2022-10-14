@@ -26,6 +26,14 @@ This command will list out the DNS Cache Entries.
 
 [] dig
 
+[] netstat -a
+
+[] arp -a
+
+[] route print
+
+[] 
+
 https://youtu.be/6t9C72BXQHw
 
 
