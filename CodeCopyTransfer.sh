@@ -96,6 +96,24 @@ git --version
 tracert {-d, -h -w}
 
 
+arp = Address Resolution Protocol
+
+
+NETSTAT *options
+
+Option	Description
+-a	Displays all active TCP connections and the TCP and UDP ports on which the computer is listening.
+-e	Displays Ethernet statistics, such as the number of bytes and packets sent and received.
+-n	Displays active TCP connections, however, addresses and port numbers are expressed numerically and no attempt is made to determine names.
+-o	Displays active TCP connections and includes the process ID (PID) for each connection.
+-p	Shows connections for the protocol specified by Protocol. In this case, the Protocol can be TCP, UDP, tcpv6, or udpv6.
+-s 	Displays statistics by protocol. By default, statistics are shown for the TCP, UDP, ICMP, and IP protocols.
+-r 	Displays the contents of the IP routing table.
+
+
+
+
+
 
 
 
