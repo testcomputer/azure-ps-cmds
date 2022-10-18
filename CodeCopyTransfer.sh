@@ -112,6 +112,20 @@ Option	Description
 
 
 
+NBTSTAT
+
+
+Option	Description
+-a <name>	Displays NetBIOS name cache entries for all computers.
+-A <IP address>	Displays NetBIOS name table entries for all computers.
+-c	Displays NetBIOS name table entries for all computers.
+-n	Displays NetBIOS localNames table.
+-r	Purges and reloads the remote cache name table.
+-R	Purges and reloads the NetBIOS name cache.
+-RR	Resets NetBIOS over TCP/IP.
+-s <name>	Displays sessions table for all computers
+-S	Purges the sessions table
+-t <name>	Displays the status of NetBIOS over TCP/IP on a specified computer.
 
 
 
