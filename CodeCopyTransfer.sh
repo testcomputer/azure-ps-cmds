@@ -93,7 +93,7 @@ Get-NetAdapter | Get-NetAdapterBinding | ? enabled -eq $true
 git --version
 
 
-
+tracert {-d, -h -w}
 
 
 
