@@ -131,5 +131,5 @@ Option	Description
 
 
 
-
+hostname -a, -s, -i, -d
 
