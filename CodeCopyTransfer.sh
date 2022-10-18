@@ -133,3 +133,4 @@ Option	Description
 
 hostname -a, -s, -i, -d
 
+NetDiag is a networking dianostic scanner for older Window OS
