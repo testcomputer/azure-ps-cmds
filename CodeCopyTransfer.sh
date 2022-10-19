@@ -134,3 +134,16 @@ Option	Description
 hostname -a, -s, -i, -d
 
 NetDiag is a networking dianostic scanner for older Window OS
+
+
+
+Router> enable
+
+Router# configure terminal
+
+
+
+
+
+
+
