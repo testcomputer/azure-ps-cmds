@@ -145,5 +145,6 @@ Router# configure terminal
 https://stackoverflow.com/questions/61071158/add-image-with-link-in-githubs-readme-md
 
 
-
+What is the primary purpose of a VLAN?
+To create a broadcast domain; enable segmentation or isolation of broadcast traffic
 
