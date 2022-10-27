@@ -148,3 +148,9 @@ https://stackoverflow.com/questions/61071158/add-image-with-link-in-githubs-read
 What is the primary purpose of a VLAN?
 To create a broadcast domain; enable segmentation or isolation of broadcast traffic
 
+
+
+What is the normal VLAN range?
+VLAN 2 - 1001
+
+
