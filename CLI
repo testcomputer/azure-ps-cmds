@@ -82,3 +82,9 @@ get-adgroup -filter * | Where-Object {$_.name -like "*group-name*"}
 Get-AdComputer -filter *
 Get-WindowsAutoPilotInfo
 apt upgrade
+ifconfig
+ping
+traceroute
+PolicyType
+
+
