@@ -159,3 +159,5 @@ VLAN 2 - 1001
 Line of code are a form of language. Speak it fluently. 
 
 Lean into the unknown. Know the path. Then create a new one
+
+Continue documenting the learning process and repeat for new users.
