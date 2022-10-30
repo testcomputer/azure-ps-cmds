@@ -154,3 +154,6 @@ What is the normal VLAN range?
 VLAN 2 - 1001
 
 
+
+
+Line of code are a form of language. Speak it fluently. 
