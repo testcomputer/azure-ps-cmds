@@ -161,3 +161,8 @@ Line of code are a form of language. Speak it fluently.
 Lean into the unknown. Know the path. Then create a new one
 
 Continue documenting the learning process and repeat for new users.
+
+
+1. Identify opportunities to use data science to draw conclusions and measure impact
+2. Perform exploratory data analysis to identify areas of opportunity to drive monetization
+3. Develop and monitor dashboards to track the health of the business
