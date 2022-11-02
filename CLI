@@ -86,6 +86,7 @@ ifconfig
 ping
 traceroute
 PolicyType
+<<<<<<< HEAD
 
 
 fake-entry
@@ -93,3 +94,7 @@ fake-entry
 dataentry
 2.0
 ChoppedDisplaysKillEyes
+=======
+cat /etc/debian_version
+cat /proc/version
+>>>>>>> 6a3e2a0 (Update CLI)
