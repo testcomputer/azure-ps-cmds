@@ -97,7 +97,5 @@ ChoppedDisplaysKillEyes
 
 cat /etc/debian_version
 cat /proc/version
- HEAD
-
-
-lsb_release -a
+lsb_release -a (Kali cmd)
+wsl --terminate <DistributionName>
