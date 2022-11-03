@@ -99,3 +99,4 @@ cat /etc/debian_version
 cat /proc/version
 lsb_release -a (Kali cmd)
 wsl --terminate <DistributionName>
+--distribution
