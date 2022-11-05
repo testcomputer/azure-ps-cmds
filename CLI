@@ -100,3 +100,4 @@ cat /proc/version
 lsb_release -a (Kali cmd)
 wsl --terminate <DistributionName>
 --distribution
+delta
