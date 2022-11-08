@@ -101,3 +101,4 @@ lsb_release -a (Kali cmd)
 wsl --terminate <DistributionName>
 --distribution
 delta
+dxdiag
