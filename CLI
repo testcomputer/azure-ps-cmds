@@ -102,3 +102,4 @@ wsl --terminate <DistributionName>
 --distribution
 delta
 dxdiag
+run sync
