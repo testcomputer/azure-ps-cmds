@@ -6,3 +6,4 @@
 [] Threats and Vulnerabilities goes over common attacks and known weaknesses in enterprise systems.
 
 []
+Document the process
