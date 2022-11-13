@@ -166,3 +166,15 @@ Continue documenting the learning process and repeat for new users.
 1. Identify opportunities to use data science to draw conclusions and measure impact
 2. Perform exploratory data analysis to identify areas of opportunity to drive monetization
 3. Develop and monitor dashboards to track the health of the business
+
+
+
+As a software engineer I'm always amazed that there are people who are so CLI-phobic. The GUI has little or nothing to do with the OS. Neither does the terminal for that matter. They are both human user interfaces to communicate with the machine OS.
+
+The difference is the CLI typically provides more options and is more concise in how you do things.
+
+Given the time and resources to create a GUI there are often compromises made to get the basic functionality without providing all of the options.
+
+macOS is a Unix based OS at it's core, just like Solaris, Linux or FreeBSD. Lots of money allowed Apple to create better than average GUI apps and interfaces. There is little magic in the Darwin OS itself.
+
+Praising the CLI over the GUI is a matter of preference and what you need to get done.
