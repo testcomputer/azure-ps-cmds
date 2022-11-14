@@ -4,3 +4,55 @@ No akward pauses
 Eye contact
 Engagement
 Open ended questions
+
+
+
+
+
+
+To shut down Bitdefender totally do the following:-
+
+
+Start Button
+
+
+Run
+
+
+Type cmd (opens an MS-DOS window)
+
+
+Type the following commands:-
+
+
+cd\
+
+
+cd program files
+
+
+cd bitdefender
+
+
+cd bitdefender 2010
+
+
+bdagent /stop
+
+
+To restart type the following commands
+
+
+cd\
+
+
+cd program files
+
+
+cd bitdefender
+
+
+cd bitdefender 2010
+
+
+bdagent /start
