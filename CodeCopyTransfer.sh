@@ -178,3 +178,5 @@ Given the time and resources to create a GUI there are often compromises made to
 macOS is a Unix based OS at it's core, just like Solaris, Linux or FreeBSD. Lots of money allowed Apple to create better than average GUI apps and interfaces. There is little magic in the Darwin OS itself.
 
 Praising the CLI over the GUI is a matter of preference and what you need to get done.
+
+Record and edit. Voice over edit. 
