@@ -30,3 +30,5 @@ commits are saved locally, push via GH DSKTP or VS
 AUTO push and save, no review. TEST
 
 @testcomputer check above
+
+skip check
