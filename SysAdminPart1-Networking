@@ -23,3 +23,5 @@ run cmd
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 Run push to create a request, run sync to automatically save. TEST
+
+commits are saved locally, push via GH DSKTP or VSC
