@@ -102,4 +102,16 @@ wsl --terminate <DistributionName>
 --distribution
 delta
 dxdiag
+<<<<<<< Updated upstream
 run sync
+=======
+softwareupdate -l
+softwareupdate -i NAME
+softwareupdate -i -a (Download all software updates)
+Windows + R. %Temp% Clear all files
+dir -a
+.exe
+brew install git
+git clone https://github.com/git/git (update git via GitHub)
+Check files edit
+>>>>>>> Stashed changes
