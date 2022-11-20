@@ -112,6 +112,7 @@ Windows + R. %Temp% Clear all files
 dir -a
 .exe
 brew install git
+<<<<<<< HEAD
 git clone https://github.com/git/git (update git via GitHub)
 Check files edit
 >>>>>>> Stashed changes
@@ -120,3 +121,6 @@ git pull origin main
 git checkout Newbranch
 git merge main
 git push -u origin Newbranch
+=======
+git clone https://github.com/git/git (update git via GitHub)
+>>>>>>> 3e916d4 (Update CLI)
