@@ -32,3 +32,5 @@ AUTO push and save, no review. TEST
 @testcomputer check above
 
 skip check
+
+Commiting directly to main will skip review process. Be cautious of this feature. (Note to self)
