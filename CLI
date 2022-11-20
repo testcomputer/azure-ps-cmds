@@ -115,3 +115,8 @@ brew install git
 git clone https://github.com/git/git (update git via GitHub)
 Check files edit
 >>>>>>> Stashed changes
+
+git pull origin main
+git checkout Newbranch
+git merge main
+git push -u origin Newbranch
