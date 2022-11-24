@@ -226,3 +226,6 @@ The www.google.com page can be reached by a number of different IP addresses, an
 Nslookup is also used to do reverse lookups, in which the IP address is given and the hostname is returned.
 
 If you are ever concerned that your DNS server is not working correctly, you can test it with Nslookup and compare the results of your DNS server with the results from another server, such as Google's.
+
+
+Document all progress in Cisco Packet Tracer. Build another network portfolio and advance in networking
