@@ -5,3 +5,13 @@ Purpose.
 
 
 Build out a new ease to nagivate access for homepage. Simplicity sells.
+
+
+Magin VS padding
+
+a margin is the space around an element’s border, 
+while padding is the space between an element’s 
+border and the element’s content. Put another way, 
+the margin property controls the space outside an 
+element, and the padding property controls the space 
+inside an element.
