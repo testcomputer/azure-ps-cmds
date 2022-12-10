@@ -123,4 +123,11 @@ git merge main
 git push -u origin Newbranch
 =======
 git clone https://github.com/git/git (update git via GitHub)
+<<<<<<< HEAD
 >>>>>>> 3e916d4 (Update CLI)
+=======
+
+netstat
+netsh
+nslookup
+>>>>>>> 0ace853 (CheckVSCode)
