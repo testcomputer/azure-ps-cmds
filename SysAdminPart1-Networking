@@ -33,4 +33,23 @@ AUTO push and save, no review. TEST
 
 skip check
 
+<<<<<<< HEAD
 Commiting directly to main will skip review process. Be cautious of this feature. (Note to self)
+=======
+Commiting directly to main will skip review process. Be cautious of this feature. (Note to self)
+
+
+Configuring Global Parameters
+
+To configure the global parameters for your router, follow these steps.
+SUMMARY STEPS
+
+1. configure terminal
+
+2. hostname name
+
+3. enable secret password
+
+4. no ip domain-lookup
+
+>>>>>>> a0d9b5e (Update SysAdminPart1-Networking)
