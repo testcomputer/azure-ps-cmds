@@ -1,0 +1,25 @@
+To enroll a device in a management solution such as Microsoft Intune using a USB drive, 
+you will need to first create a provisioning package on the device you want to enroll. 
+This package will contain the necessary information and settings to enroll the device, 
+such as the enrollment URL, policies, and credentials.
+
+Once the provisioning package has been created, you can use a USB drive to transfer it 
+to the device that you want to enroll. To do this, follow these steps:
+
+    Insert the USB drive into the device you want to enroll.
+
+    Navigate to the location where the provisioning package was saved and copy it to the USB drive.
+
+    Remove the USB drive from the device and insert it into the device that you want to enroll.
+
+    On the target device, navigate to the location where the provisioning package is stored on 
+    the USB drive and double-click on it to begin the enrollment process.
+
+    Follow the on-screen prompts to complete the enrollment process. This may involve entering 
+    credentials, selecting policies, and agreeing to terms and conditions.
+
+Once the enrollment process is complete, the device will be enrolled in the management solution 
+and will receive the specified policies and settings. Keep in mind that the exact steps for 
+enrolling a device using a USB drive may vary depending on the specific device and management 
+solution that you are using. For more detailed instructions, please refer to the documentation 
+provided by the manufacturer or vendor.
