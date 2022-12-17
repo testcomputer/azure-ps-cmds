@@ -130,4 +130,9 @@ git clone https://github.com/git/git (update git via GitHub)
 netstat
 netsh
 nslookup
+<<<<<<< HEAD
 >>>>>>> 0ace853 (CheckVSCode)
+=======
+
+git fetch
+>>>>>>> 54a1d18 (Update CLI)
