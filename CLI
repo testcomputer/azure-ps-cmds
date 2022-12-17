@@ -135,4 +135,8 @@ nslookup
 =======
 
 git fetch
+<<<<<<< HEAD
 >>>>>>> 54a1d18 (Update CLI)
+=======
+git checkout -b <new_branch__name>
+>>>>>>> 38f4073 (Update CLI)
