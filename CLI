@@ -139,4 +139,8 @@ git fetch
 >>>>>>> 54a1d18 (Update CLI)
 =======
 git checkout -b <new_branch__name>
+<<<<<<< HEAD
 >>>>>>> 38f4073 (Update CLI)
+=======
+git update-git-for-windows
+>>>>>>> 1405dc0 (Update CLI)
