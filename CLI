@@ -143,4 +143,8 @@ git checkout -b <new_branch__name>
 >>>>>>> 38f4073 (Update CLI)
 =======
 git update-git-for-windows
+<<<<<<< HEAD
 >>>>>>> 1405dc0 (Update CLI)
+=======
+gh auth login
+>>>>>>> c0cf3b4 (Update CLI)
