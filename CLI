@@ -147,4 +147,8 @@ git update-git-for-windows
 >>>>>>> 1405dc0 (Update CLI)
 =======
 gh auth login
+<<<<<<< HEAD
 >>>>>>> c0cf3b4 (Update CLI)
+=======
+git branch
+>>>>>>> c86f6b7 (Update CLI)
