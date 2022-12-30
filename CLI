@@ -155,4 +155,9 @@ git branch
 >>>>>>> c86f6b7 (Update CLI)
 =======
 wsl.exe --update
+<<<<<<< HEAD
 >>>>>>> b6024a1 (Update CLI)
+=======
+
+apt list --upgradable
+>>>>>>> 88dc9e2 (Update CLI)
