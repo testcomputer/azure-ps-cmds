@@ -24,3 +24,9 @@ Set the opacity level for a <div> element:
 div {
   opacity: 0.5;
 }
+
+  
+  Include user friendly experience.
+  Ease of access.
+  Color theme
+  60. 30. 10. Rule of design [Luxury]
