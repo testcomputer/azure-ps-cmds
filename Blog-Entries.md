@@ -229,3 +229,5 @@ If you are ever concerned that your DNS server is not working correctly, you can
 
 
 Document all progress in Cisco Packet Tracer. Build another network portfolio and advance in networking
+
+Patching is hardwiring ethernet ports on switches
