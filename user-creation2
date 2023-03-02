@@ -1,0 +1,2 @@
+$password = Read-Host -AsSecureString
+New-LocalUser -Name "LazyUser" -Password $password -FullName "Lazy User" -Description "Test user"
