@@ -1,0 +1,1 @@
+Net User /add /domain testusr * /fullname:"Test User" /passwordreq:yes /time:M-F,08:00-17:00 /homedir:"\\lazyadmin.local\home\testusr" /scriptpath:"\\lazyadmin.local\netlogon\welcome.bat"
