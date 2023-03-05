@@ -160,4 +160,12 @@ wsl.exe --update
 =======
 
 apt list --upgradable
+<<<<<<< HEAD
 >>>>>>> 88dc9e2 (Update CLI)
+=======
+
+git clone
+git remote add upstream <URL>
+git branch <branch-name>
+git checkout <branch-name>
+>>>>>>> bc88a83 (VSC)
