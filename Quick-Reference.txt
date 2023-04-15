@@ -1,0 +1,33 @@
+    Connect-AzureAD: Used to connect to Azure AD using PowerShell.
+
+    Get-AzureADUser: Used to retrieve information about Azure AD users.
+
+    Set-AzureADUser: Used to modify Azure AD user properties.
+
+    New-AzureADUser: Used to create new Azure AD users.
+
+    Remove-AzureADUser: Used to delete Azure AD users.
+
+    Get-AzureADGroup: Used to retrieve information about Azure AD groups.
+
+    New-AzureADGroup: Used to create new Azure AD groups.
+
+    Set-AzureADGroup: Used to modify Azure AD group properties.
+
+    Remove-AzureADGroup: Used to delete Azure AD groups.
+
+    Get-AzureADServicePrincipal: Used to retrieve information about Azure AD service principals.
+
+    New-AzureADServicePrincipal: Used to create new Azure AD service principals.
+
+    Set-AzureADServicePrincipal: Used to modify Azure AD service principal properties.
+
+    Remove-AzureADServicePrincipal: Used to delete Azure AD service principals.
+
+    Get-AzureADApplication: Used to retrieve information about Azure AD applications.
+
+    New-AzureADApplication: Used to create new Azure AD applications.
+
+    Set-AzureADApplication: Used to modify Azure AD application properties.
+
+    Remove-AzureADApplication: Used to delete Azure AD applications.
