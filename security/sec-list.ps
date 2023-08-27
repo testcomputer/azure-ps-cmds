@@ -14,3 +14,21 @@ Get-EventLog -LogName <LogName>
 
 Get-EventLog -LogName <LogName>
 
+Audit Failed Logins
+Get-EventLog -LogName Security | Where-Object {$_.EventID -eq 4625}
+
+Enable/Disable UAC (User Account Control)
+Set-ItemProperty -Path REGISTRY::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\System -Name EnableLUA -Value 0/1
+
+Get Windows Defender Scan History
+Get-MpThreatDetection
+
+Start Windows Defender Quick Scan
+Start-MpScan -ScanType QuickScan
+
+
+
+
+
+
+
