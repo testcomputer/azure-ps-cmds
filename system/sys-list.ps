@@ -7,5 +7,16 @@ Stop-Process -Name <ProcessName>
 Get-Service -Name <ServiceName>
 
 Start-Service -Name <ServiceName>
+
 Stop-Service -Name <ServiceName>
 
+Get-Volume
+
+Get-PhysicalDisk
+
+Get-ItemProperty HKLM:\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\* | Select-Object DisplayName, DisplayVersion, Publisher, InstallDate
+
+mstsc
+
+Stop-Computer
+Restart-Computer
