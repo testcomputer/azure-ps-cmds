@@ -5,3 +5,12 @@ Get-LocalUser
 Get-NetFirewallProfile
 
 Get-MpComputerStatus
+
+New-LocalUser -Name <UserName> -Password (Read-Host -AsSecureString)
+
+Add-LocalGroupMember -Group <GroupName> -Member <UserName>
+
+Get-EventLog -LogName <LogName>
+
+Get-EventLog -LogName <LogName>
+
